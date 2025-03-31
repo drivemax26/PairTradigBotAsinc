@@ -1,0 +1,14 @@
+{
+  "api_key": "",
+  "api_secret": "",
+  "symbol1": "ZILUSDT",
+  "symbol2": "ZRXUSDT",
+  "candle_interval": "1h",
+  "ma_period": 240,
+  "first_sigma": 1,
+  "second_sigma": 2,
+  "third_sigma": 3,
+  "order_amount": 10,
+  "telegram_bot_token": "",
+  "telegram_chat_id": ""
+}
